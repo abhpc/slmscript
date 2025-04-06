@@ -14,7 +14,7 @@ slmscript usage:
         (4) slmscript vi [script] : edit/create script content.
 
 ```
-
+## 目录 <!-- omit in toc -->
 - [1 安装](#1-安装)
 - [2 显示可用作业脚本模板](#2-显示可用作业脚本模板)
 - [3 拷贝目标脚本模板到当前目录下](#3-拷贝目标脚本模板到当前目录下)
