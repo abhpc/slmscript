@@ -36,8 +36,11 @@ SLURM_SCRIPTS_PATH = /opt/slmscripts/
 ```bash
 slmscript ls
 
-abaqus_new.slm  anaconda.slm  comsol.slm  epoch.slm    g16.slm     lsdyna_mpp.slm  mscastep.slm   polygrpfc.slm  slm.lammps  slm.vasp      test.slm
-abaqus.slm      castep.slm    cp2k.slm    g16-mem.slm  lammps.slm  lsdyna_smp.slm  orcatmpfs.slm  qe.slm         slm.orca    starccm+.slm  vasp.slm
+abaqus_new.slm  anaconda.slm    comsol.slm     epoch.slm    g16.slm     
+lsdyna_mpp.slm  mscastep.slm    polygrpfc.slm  slm.lammps   slm.vasp      
+test.slm        abaqus.slm      castep.slm     cp2k.slm     g16-mem.slm  
+lammps.slm      lsdyna_smp.slm  orcatmpfs.slm  qe.slm       slm.orca    
+starccm+.slm    vasp.slm
 ```
 
 ## 3 拷贝目标脚本模板到当前目录下
