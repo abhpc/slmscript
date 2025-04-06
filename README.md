@@ -1,5 +1,5 @@
 # slmscript命令简介 <!-- omit in toc -->
-slmscript是一个用于管理公共slurm脚本的工具，**<u>```slmscript```命令支持```Tab```键补全</u>。**
+在超算集群上，用户要手写slurm脚本可能存在困难，因此管理员常提供公共的脚本模板给用户。```slmscript```是一个为普通用户和管理员提供管理公共slurm脚本模板的工具，**<u>```slmscript```命令支持```Tab```键补全</u>。**
 ```bash
 slmscript
 
