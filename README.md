@@ -53,6 +53,7 @@ slmscript cat <xxx.slm>
 ```
 
 ## 5 查看/编辑脚本模板内容(普通用户只读，root可编辑)
+注意这里```<xxx.slm>```可以按Tab键补全:
 ```bash
-slmscript vi <xxx.slm>  #注意这里xxx.slm可以按Tab键补全
+slmscript vi <xxx.slm>
 ```
